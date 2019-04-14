@@ -1,0 +1,16 @@
+1 Cairo Alexandria Internal NonStop 600.000000 Mar30,2018 6:00PM LMO987 123456789 
+2 Hurghada Alexandria Internal One-Stop 1800.000000 Mar31,2018 9:00AM 98721 98765432 
+3 Alexandria Cairo Internal NonStop 140.000000 Mar31,2018 6:00PM RNB302 6752452 
+4 Alexandria SharmElsheikh Internal NonStop 600.000000 Apr27,2018 6:00PM VSH432 86543 
+5 Alexandria Tanta Internal NonStop 90.000000 Apr13,2018 9:00AM NHY234 87613 
+6 Alexandria Rashid Internal NonStop 50.000000 Apr21,2018 6:00PM UJA232 286134 
+7 Alexandria MarsaMatrouh Internal One-Stop 300.000000 Apr21,2018 9:00AM OA8923 9836154 
+8 Alexandria Luxor Internal One-Stop 600.000000 Apr26,2018 6:00PM 244DAS 13413 
+9 Alexandria Sudan External Two-Stops 1200.000000 Apr20,2018 6:00PM VHG234 12873 
+10 Alexandria Libya External Two-Stops 1400.000000 Apr14,2018 9:00AM UJS234 1341 
+11 Hurghada Alexandria Internal Two-Stops 300.000000 Apr14,2018 6:00PM OKI234 13124 
+12 SharmElsheikh Alexandria Internal One-Stop 1400.000000 Apr28,2018 9:00AM 9823 123314 
+13 Tanta Alexandria Internal One-Stop 100.000000 Apr28,2018 9:00AM SAHI234 81374 
+14 Rashid Alexandria Internal NonStop 90.000000 Apr30,2018 9:00AM IHS233 3143 
+15 Luxor Alexandria Internal One-Stop 400.000000 May9,2018 6:00PM 123SDF 18963 
+16 Libya Alexandria External Two-Stops 700.000000 May17,2018 6:00PM HGS566 87513 
